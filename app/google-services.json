@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "1047552864599",
+    "firebase_url": "https://room-finder-83484.firebaseio.com",
+    "project_id": "room-finder-83484",
+    "storage_bucket": "room-finder-83484.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047552864599:android:fa6cdb6f853b6ee6884e12",
+        "android_client_info": {
+          "package_name": "com.example.roomfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047552864599-24dogk5cjv6m32qclca9pef3rt0jh7kg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roomfinder",
+            "certificate_hash": "269c4ec6d95fef1042792de3b66c74db8eab2e6c"
+          }
+        },
+        {
+          "client_id": "1047552864599-4ko1fuc7tpstvamemkqnh3su4ekb2pbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBycSPh_Dbr0tINfQpafDTAGgnbF81G460"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047552864599-4ko1fuc7tpstvamemkqnh3su4ekb2pbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047552864599:android:29f95dd2053fe002884e12",
+        "android_client_info": {
+          "package_name": "com.example.roomfindernepal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047552864599-go9q5lvigga9rl2fkiin2d4cpj6gqcvg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roomfindernepal",
+            "certificate_hash": "269c4ec6d95fef1042792de3b66c74db8eab2e6c"
+          }
+        },
+        {
+          "client_id": "1047552864599-4ko1fuc7tpstvamemkqnh3su4ekb2pbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBycSPh_Dbr0tINfQpafDTAGgnbF81G460"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047552864599-4ko1fuc7tpstvamemkqnh3su4ekb2pbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
