@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:background="#cff">
+
+    <ImageView
+        android:id="@+id/img_id"
+        android:layout_width="96dp"
+        android:layout_height="87dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:src="@mipmap/ic_launcher_round" />
+    <TextView
+        android:textSize="20sp"
+        android:text="Room Type"
+        android:layout_toRightOf="@id/img_id"
+        android:id="@+id/roomType_id"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:textSize="20sp"
+        android:layout_below="@id/roomType_id"
+        android:text="Details of Room"
+        android:layout_margin="10dp"
+        android:layout_toRightOf="@id/img_id"
+        android:id="@+id/detail_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</RelativeLayout>
